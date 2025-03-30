@@ -8,7 +8,6 @@ tasks:
     rm -fr venv
 - command: |
     cd /workspace
-    unzip -q venv.zip
     source /workspace/venv/bin/activate
     cd /workspace/dagster
 
