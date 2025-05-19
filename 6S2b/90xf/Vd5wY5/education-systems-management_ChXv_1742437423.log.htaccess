@@ -6,7 +6,6 @@
 
 ##################################################################################
 #nukeviet_config_start //Please do not change the contents of the following lines
-##################################################################################
 
 <IfModule mod_rewrite.c>
   <IfModule mod_env.c>
