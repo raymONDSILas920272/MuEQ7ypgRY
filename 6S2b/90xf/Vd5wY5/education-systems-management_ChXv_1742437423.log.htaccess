@@ -38,7 +38,6 @@ ErrorDocument 504 /error.php?code=504&nvDisableRewriteCheck=1
 
 <IfModule mod_headers.c>
   <FilesMatch "\.(js|css|xml|ttf|pdf)$">
-    Header append Vary Accept-Encoding
     Header set Access-Control-Allow-Origin "*"
     Header set X-Frame-Options "SAMEORIGIN"
     Header set X-Content-Type-Options "nosniff"
