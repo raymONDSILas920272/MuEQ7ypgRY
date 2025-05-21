@@ -60,7 +60,6 @@ ErrorDocument 504 /error.php?code=504&nvDisableRewriteCheck=1
 ##################################################################################
 
 ##################################################################################
-#nukeviet_rewrite_start //Please do not change the contents of the following lines
 ##################################################################################
 
 #Options +FollowSymLinks
