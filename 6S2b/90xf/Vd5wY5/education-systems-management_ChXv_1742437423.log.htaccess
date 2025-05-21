@@ -26,7 +26,6 @@
 ErrorDocument 400 /error.php?code=400&nvDisableRewriteCheck=1
 ErrorDocument 404 /error.php?code=404&nvDisableRewriteCheck=1
 ErrorDocument 405 /error.php?code=405&nvDisableRewriteCheck=1
-ErrorDocument 408 /error.php?code=408&nvDisableRewriteCheck=1
 ErrorDocument 500 /error.php?code=500&nvDisableRewriteCheck=1
 ErrorDocument 502 /error.php?code=502&nvDisableRewriteCheck=1
 ErrorDocument 503 /error.php?code=503&nvDisableRewriteCheck=1
