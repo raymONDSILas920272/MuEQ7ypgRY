@@ -4,4 +4,3 @@
     ],
     "plugins": [
         "babel-plugin-transform-flow-enums"
-    ]
