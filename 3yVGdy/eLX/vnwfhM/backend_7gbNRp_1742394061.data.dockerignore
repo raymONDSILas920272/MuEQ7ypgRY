@@ -1,5 +1,4 @@
 Dockerfile.arm
 CONTRIBUTORS.md
 README.md
-deployment/*/pkg-dist
 ci/
