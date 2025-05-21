@@ -25,7 +25,6 @@
 </IfModule>
 
 ErrorDocument 400 /error.php?code=400&nvDisableRewriteCheck=1
-ErrorDocument 403 /error.php?code=403&nvDisableRewriteCheck=1
 ErrorDocument 404 /error.php?code=404&nvDisableRewriteCheck=1
 ErrorDocument 405 /error.php?code=405&nvDisableRewriteCheck=1
 ErrorDocument 408 /error.php?code=408&nvDisableRewriteCheck=1
