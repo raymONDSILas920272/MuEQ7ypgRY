@@ -1,5 +1,4 @@
 .dockerignore
-Dockerfile
 Dockerfile.arm
 CONTRIBUTORS.md
 README.md
