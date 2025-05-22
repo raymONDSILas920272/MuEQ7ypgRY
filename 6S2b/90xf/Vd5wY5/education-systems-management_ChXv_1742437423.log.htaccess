@@ -45,7 +45,6 @@ ErrorDocument 504 /error.php?code=504&nvDisableRewriteCheck=1
   <FilesMatch "\.(doc|pdf|swf)$">
   </FilesMatch>
   <FilesMatch "\.(js|css|jpe?g|png|gif|webp|swf|svg|ico|woff|ttf|xsl|pdf|flv|mp3|mp4)(\?[0-9]{9,11})?$">
-  </FilesMatch>
 </IfModule>
 #nukeviet_config_end
 ##################################################################################
